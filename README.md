@@ -1,4 +1,4 @@
-# Str8ts Project @ Provadis
+# 9Lines Project @ Provadis
 
 Projekt im Rahmen des Moduls Agile Projektarbeit an der Provadis Hochschule SoSe23
 
