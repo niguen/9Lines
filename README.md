@@ -1,6 +1,6 @@
 # 9Lines Project @ Provadis
 
-Projekt im Rahmen des Moduls Agile Projektarbeit an der Provadis Hochschule SoSe23
+Projekt im Rahmen des Moduls Agile Projektarbeit an der Provadis Hochschule SoSe24
 
 
 ## Current  Status
