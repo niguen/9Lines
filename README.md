@@ -25,7 +25,7 @@ Instructions to install and run the project on your local machine:
 
 ### Download Project
 1. Navigate to the folder where you want to store the project on your machine
-2. Open a Termin in the directory and type: git clone XYZ
+2. Open a terminal in the directory and type: git clone XYZ
 
 ### Run development Server
 1. Open VS Code and open the folder where you have stored your project
