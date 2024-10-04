@@ -13,7 +13,7 @@ This application was developed as part of the **Agile Projektarbeit** module dur
 
 ## Screenshot
 
-![Current Status of the Project](fastlane/metadata/android/en-US/images/phoneScreenshots/4.png)
+<img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" alt="Phone Screenshot" width="300" height="533">
 
 ## Installation of required software
 
