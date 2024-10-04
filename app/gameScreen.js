@@ -55,6 +55,7 @@ function GameScreen() {
     const newGame = game.clone();
     newGame.solveBoard(setAlertMessage);
     newGame.unsetSelected();
+    setSelectedBox(null);
     setHistory([]); // Speichern des aktuellen Zustands vor der Änderung
     setGame(newGame);
 
@@ -79,6 +80,7 @@ function GameScreen() {
     const newGame = game.clone();
     newGame.getBox(selectedBox).user = undefined;
     newGame.unsetSelected();
+    setSelectedBox(null);
     saveState(game); // Speichern des aktuellen Zustands vor der Änderung
     setGame(newGame);
   }
