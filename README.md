@@ -37,6 +37,24 @@ Instructions to install and run the project on your local machine:
 
 ## Build instructions
 
-To set up and build the **9Lines** application, use the command below:
+To build the **9Lines** application, Expo Application Service (eas) is used. In order to use eas an Expo user account is required. Detailed instructions can be found here: [docs.expo.dev](https://docs.expo.dev/build/setup/)
 
-```npx expo run:android```
+0. Check if EAS CLI is installed:
+    
+     ```npm install -g eas-cli```
+
+### Build for app stores
+
+1. Build the app for andoid with eas:
+    
+     ```eas build --platform android```
+
+2. Download the .aab-file with the provided link in the terminal
+
+### Build installable APK for Android
+
+1. Build the app as a APK:
+
+     ``` eas build -p android --profile preview ```
+
+2. Download the .apk-file with the provided link in the terminal
